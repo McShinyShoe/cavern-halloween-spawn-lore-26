@@ -15,6 +15,7 @@ To do the logic for the lost journals, we use the headblocks hunt to place the j
 ## Characters
 
 ### Town Characters
+
 Characters in the surfacce that talks about what happend to the mines.
 
 - NPC1, Located in Town
@@ -23,6 +24,7 @@ Characters in the surfacce that talks about what happend to the mines.
 - NPC4, Located in Mines
 
 ### Investigators
+
 Investigators that investigates what happend to the mining and archeology team
 
 - HEAD_INVESTIGATOR
@@ -48,64 +50,81 @@ Investigators that investigates what happend to the mining and archeology team
 ## Story Location
 
 ### Surface
+
 The surface
 
 #### Ruined Building (built by `*Dead_Coffin1748`)
-A ruined building behind the mountain, there is a summoning circle inside of it. (Misc Lore Potential Location) 
+
+A ruined building behind the mountain, there is a summoning circle inside of it. (Misc Lore Potential Location)
 
 #### Dragon Skull
-A skull above the mountain, is said to be used in a ritual to visit a remote location in the past(a reference of it usde to host dungeon NPC where players can enter the dungeon using a key). (Misc Lore Potential Location) 
+
+A skull above the mountain, is said to be used in a ritual to visit a remote location in the past(a reference of it usde to host dungeon NPC where players can enter the dungeon using a key). (Misc Lore Potential Location)
 
 #### Dragon Skull
-A skull in the sea, maybe have like a book written by one of the archeologist that have something to do with investigating the weird fossils found in the sea that recently have surfaced. (Misc Lore Potential Location) 
+
+A skull in the sea, maybe have like a book written by one of the archeologist that have something to do with investigating the weird fossils found in the sea that recently have surfaced. (Misc Lore Potential Location)
 
 #### Ship A
+
 A ship used by the archeology team.
 (Misc Lore Potential Location)
 
 #### Ship B
+
 A ship that is sailing towards the island filled with suplies.
 (Misc Lore Potential Location)
 
 #### Archeology Outpost
+
 An outpost used by the archeologist investigating the weird fossiles found in the mines.
 (Misc Lore Potential Location)
 
 ### Mines
+
 A mine of a strange ore that befouled scientists. A few years after the mine were established, they uncovered strange fossils of a creature that were never recorded in any books.
 
 #### Surface Mine
+
 The shallow portion of the mine that the Phase 1 of the story occour in.
 
 ##### First Fossil
+
 A dugged out area where they first found the weird fossils.
 
 ##### Second Fossil
+
 A dugged out area where they first found the weird fossils.
 
 ##### The Nest
+
 A cave room that is filled with spider nets and corpses of humans encapsulated by a spider web. There is a hidden entrance here that leasds to the Deep Cavern.
 
 #### Deep Cavern
+
 The cavern area that were hidden behind the cobwebs. The archeology team set up various minor outposts in the deep cavern to study the fossils and strange ore found in the mountain.
 
 ##### Outpost Alpha
+
 An outpost used to prepare the team to venture to the deeper cavern.
 
 ##### Outpost Beta
+
 An outpost used to investigate the weird spikes and red matter found. There is a vertical cave along with 1 entrance and 1 path leading deeper to the caverns.
 
 ##### Outpost Charlie
+
 The deepest outpost that investigates weird red matters comming from the cave, its here that they found out that the Quietus ore in this mine may have be related to the red matter. The red matter transform the nearby hematite rich rock into this weird ore.
 
 #### Heart of the Plague
-The source of the strange fossils and ore in the mountain, the corpse of an eldritch being skull that rots and corrupted the mountain. This is the source of the red matter. Below the skull are the skull remains of the archeologist. In here is where the 
+
+The source of the strange fossils and ore in the mountain, the corpse of an eldritch being skull that rots and corrupted the mountain. This is the source of the red matter. Below the skull are the skull remains of the archeologist. In here is where the
 
 ## Chronological Storyline
 
 In a seemingly normal day in the world, a story broke out from a remote island that shock the world. Fossils and corpses started to surface from the seas around that remote island. And a hematite mine found a new ore they named "Quietus Ore". A red ore that grew among the hematite deposits.
 
-After a few years of mining, they found weird fossils deep within the mountain. They uncovered strange fossils of a creature that were never recorded in any encyclopedia. An archeologist by the name of XXX were tasked to investigate the fossils that were found at that mountain along with a group of miners to dug deeper into the mines. 
+After a few years of mining, they found weird fossils deep within the mountain. They uncovered strange fossils of a creature that were never recorded in any encyclopedia. An archeologist by the name of XXX were tasked to investigate the fossils that were found at that mountain along with a group of miners to dug deeper into the mines.
 
 From the knowledge that he have, he warns the institute about going deeper to the mines. He once read that there was a record of a folklore about creatures that roam in the caverns of those mines. Judging the freshness of the bones, he worries that there might be some of those creature still exists within the mountain.
 
@@ -118,6 +137,20 @@ After they arrived at the island they set up an outpost near the entrance of the
 After days of investigating, the miner team made a breakthrough, they found a cave entrance that leads to a cave system under the mountain.
 
 At first the archeology team ask for a new team of explorers to help them explore the caves and kill any monsters in that cave, but the institute pressured them to explore slowly with caution, while the explorer team is sailing to that remote island.
+
+Following the institute orders to proceed deeper into the mountain with caution, they set up various outposts along the way in the deep caverns, mainly in areas that needed attention the most. They start with making an outpost near the entrance of the deep cavern, "Outpost Alpha". From there they explored and studied the deep cavern thoroughly.
+
+The more they explore, the more they found weird fossils of an unknown origin inside the cave. Not long after they explore the cave, they found strange red matter along with bone spikes inside the cave. They hypothesised that the red matter could be related to the ore they named "Quietus" in the mountains. Shortly after this discovery, the team set up another camp to study this named "Camp Bravo".
+
+As they venture deep inside the cavern, the archeology team starts to feel weird about them. They started to see vision and dreams of some beings incomprehensible to human mind. And they started to feel an unknown pull towards the center of the mountain.
+
+After a few more days of exploring, they followed the red matter deeper and set up their last outpost, "Outpost Charlie". There they confirmed their suspicion, the red matter was seeping into the hematite-rich rock around it and turning it into Quietus ore.
+
+At Outpost Charlie, every member of the team felt the same thing, a sense, at once ominous and welcoming, that something was waiting for them further down. After a group discussion, they agreed to stay put and wait for the explorer team, which was due to arrive within a few days. But the explorers were delayed, the days stretched into a couple of weeks, and curiosity eventually got the better of them. They went deeper.
+
+On the way to the deepest part of the cavern, the whispers and visions grew stronger.
+
+At one point, one of the team members collapsed. The others stopped to help, but he insisted that they keep going and leave him behind. Two more archeologists, too ill to go on, stayed behind as well, leaving only three archeologists, the professor among them, to continue the descent. They never knew what caused the illnes, but days before this, the three of them already starting to feel it, but they thought that the illness feeling is just because they were overworked. Suspiciously, the three of them were the people who investigated the arachnid fossils and the hands-on researcher regarding the red matter.
 
 ## General Storyline
 
@@ -133,7 +166,7 @@ There will be NPCs in there investigating what happend to the mining and archeol
 
 Players are tasked to go inside the mines to gather information.
 
-At the mines, player gather small journal notes 
+At the mines, player gather small journal notes
 
 ### Phase 1.5 - Hidden Passage
 
@@ -156,6 +189,7 @@ At the end of their journey, they finally reached the bottom of the mines.
 ## Journals
 
 ### Phase - 0 (Misc Lore)
+
 This headblocks hunt is not ordered. And some are not even related to the main story.
 
 #### xxx
@@ -170,6 +204,7 @@ TO-DO
 ```
 
 ### Phase 1 (The Quietus Mines)
+
 This headblocks hunt is ordered.
 
 #### The Warning
@@ -184,6 +219,7 @@ TO-DO
 ```
 
 ### Phase 2 (The Calling)
+
 This headblocks hunt is ordered.
 
 #### xxx
