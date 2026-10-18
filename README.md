@@ -898,4 +898,99 @@ I am setting off now... to join my creator...
 
 ## NPC Dialogue
 
-TO-DO
+Every block below is one NPC. Each paragraph is one chat message, sent in order when the player clicks the NPC (one `message` action per paragraph in FancyNPC, with a `wait` between them).
+
+### Town
+
+#### Nicolas Roerick
+
+Location: Staff House Floor 2
+
+```txt
+A score of years I have painted the hill, and now my hand puts in a red vein within the rock. I have not seen it with my own eyes.
+
+Two places I will not paint. The ruin at the back of the mountain, which has a circle on the floor, and the skull up on the summit.
+```
+
+#### Martha Pym
+
+Location: /warp crate stalls
+
+```txt
+In you come, out of the wind. Mr. Peabody put the professor's stores in the tents at the mine mouth, and the wireless man left his log on the Beardmore.
+
+And the skull up on the summit? There is a man with a key. If he wants you, he will find you.
+```
+
+#### Silas Nansen
+
+Location: /warp crate stalls
+
+```txt
+Mind the fish now. No eyes, not one in the net. A fish has no use for eyes down in the dark.
+
+Three summers ago the north shallows were bare sand. Now there is a skull out there, and the Erebus is still off the point with not a soul in her.
+```
+
+#### Murdo
+
+Location: Mine, Waterfall room
+
+```txt
+It was me that heard the noise up in the north cave. Mr. Thorfinn took the men down and left me with the lamp. Twelve tags went off the board. None came back.
+
+The professor's stores are yet in the tents at the mine mouth. Read the bit Mr. Peabody wrote on the canaries.
+```
+
+### Relief Party (Archeology Room)
+
+#### Dr. Helena Moore
+
+Location: Archeology room, `/spawn` mines
+
+```txt
+We got here eighteen days late. The miners are dead, and the professor's party are not with the dead we found. Bring me all the paper in that mine.
+
+Start with the professor's letter to the Board. If he made a copy, it should be in the upper workings.
+```
+
+#### Albert Wilmot
+
+Location: Archeology room, `/spawn` mines
+
+```txt
+The island lore says the hill grew over a thing which fell from the sky, as a pearl grows round grit. It says the thing is dead. Then it says it is not over.
+
+If you find marks in sets of five, copy them down for me, dot for dot. Do not try to read them.
+```
+
+#### James Atwell
+
+Location: Archeology room, `/spawn` mines
+Points to: First Fossil, Second Fossil
+
+```txt
+The red ore grows in the rock like rust on a nail, and it is warm to the hand. I would not keep a piece of it where you sleep.
+
+The first bones came out of Drift 3 at 88 ft, the next lot lower down in Drift 4. A foreman keeps his log close to the face.
+```
+
+#### Owen McTeague
+
+Location: Archeology room, `/spawn` mines
+
+```txt
+The last we had from the island. 15 Oct, 2350. Thorfinn to Beardmore. Murdo on watch hears noise in the north cave. Taking the men down to meet them.
+
+Nothing from then on. I keep the set on their wavelength of a night all the same.
+```
+
+#### Dr. Ruth Sherwin
+
+Location: Archeology room, `/spawn` mines
+
+```txt
+The miners were found in the big cave at the north end, bound and hung from the roof. I will tell you no more of it.
+
+One man lay away from the rest, at the back of the ore carts, with a pencil and nothing to write on. If you find his note, give it to me.
+```
