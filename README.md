@@ -4,9 +4,9 @@ Some info:
 
 - The theme is **eldritch cosmic horror**, since there is no solid theme for spawn
 - Lore are followed individually
-- Plugin used: Headblocks, FancyNPC
+- Plugin used: `Headblocks`, `FancyNPC`
 
-## How the player follow the story
+## How the Player Follows the Story
 
 Players are tasked with following a lost journal in the mines. Each journal they found, they will get a lore book and a hint where to find the next journal, making them following a currated trail of lost journal entries.
 
@@ -48,45 +48,42 @@ From the Starkweather Institute
 
 The storyline needs 6 archeologists (3 stay back sick, 3 go to the bottom) so Gedding and Carrow are added.
 
-- Prof. Nathaniel Dwyer(DECEASED). Leads da team.
-- Daniel Forth(DECEASED). Notices it all first, dreams the most. Becomes one of the two tall ones.
-- Arthur Lakely(DECEASED). Hands-on with the red matter, collapses first. Becomes one of the three spider ones.
-- Francis Peabody(DECEASED), Also the captain of the ship that the archeologist uses (Ship A, the `Erebus`). Becomes one of the two tall ones.
-- Walter Gedding(DECEASED). Studies the arachnid fossils. Becomes one of the three spider ones.
-- Ellen Carrow(DECEASED). Studies the arachnid fossils and the sea remains. Becomes one of the three spider ones.
+- Prof. Nathaniel Dwyer (DECEASED). Leads da team.
+- Daniel Forth (DECEASED). Notices it all first, dreams the most. Becomes one of the two tall ones.
+- Arthur Lakely (DECEASED). Hands-on with the red matter, collapses first. Becomes one of the three spider ones.
+- Francis Peabody (DECEASED), Also the captain of the ship that the archeologist uses Erebus. Becomes one of the two tall ones.
+- Walter Gedding (DECEASED). Studies the arachnid fossils. Becomes one of the three spider ones.
+- Ellen Carrow (DECEASED). Studies the arachnid fossils and the sea remains. Becomes one of the three spider ones.
 
-## Story Location
+## Story Locations
 
 ### Surface
 
 The surface
 
-#### Ruined Building (built by `*Dead_Coffin1748`)
+#### Ruined Building
 
 A ruined building behind the mountain, there is a summoning circle inside of it. (Misc Lore Potential Location)
 
-#### Dragon Skull
+#### Dragon Skull (mountain)
 
 A skull above the mountain, is said to be used in a ritual to visit a remote location in the past(a reference of it usde to host dungeon NPC where players can enter the dungeon using a key). (Misc Lore Potential Location)
 
-#### Dragon Skull
+#### Dragon Skull (sea)
 
 A skull in the sea, maybe have like a book written by one of the archeologist that have something to do with investigating the weird fossils found in the sea that recently have surfaced. (Misc Lore Potential Location)
 
-#### Ship A
+#### Erebus
 
-A ship used by the archeology team.
-(Misc Lore Potential Location)
+A ship used by the archeology team. (Misc Lore Potential Location)
 
-#### Ship B
+#### Beardmore
 
-A ship that is sailing towards the island filled with suplies.
-(Misc Lore Potential Location)
+A ship that is sailing towards the island filled with suplies. (Misc Lore Potential Location)
 
 #### Archeology Outpost
 
-An outpost used by the archeologist investigating the weird fossiles found in the mines.
-(Misc Lore Potential Location)
+An outpost used by the archeologist investigating the weird fossiles found in the mines. (Misc Lore Potential Location)
 
 ### Mines
 
@@ -146,7 +143,9 @@ After days of investigating, the miner team made a breakthrough, they found a ca
 
 At first the archeology team ask for a new team of explorers to help them explore the caves and kill any monsters in that cave, but the institute pressured them to explore slowly with caution, while the explorer team is sailing to that remote island.
 
-Following the institute orders to proceed deeper into the mountain with caution, they set up various outposts along the way in the deep caverns, mainly in areas that needed attention the most. They start with making an outpost near the entrance of the deep cavern, "Outpost Alpha". From there they explored and studied the deep cavern thoroughly.
+Following the institute orders to proceed deeper into the mountain with caution, they set up various outposts along the way in the deep caverns, mainly in areas that needed attention the most.
+
+They start with making an outpost near the entrance of the deep cavern, "Outpost Alpha". From there they explored and studied the deep cavern thoroughly.
 
 The more they explore, the more they found weird fossils of an unknown origin inside the cave. Not long after they explore the cave, they found strange red matter along with bone spikes inside the cave. They hypothesised that the red matter could be related to the ore they named "Quietus" in the mountains. Shortly after this discovery, the team set up another camp to study this named "Camp Bravo".
 
@@ -158,7 +157,9 @@ At Outpost Charlie, every member of the team felt the same thing, a sense, at on
 
 On the way to the deepest part of the cavern, the whispers and visions grew stronger.
 
-At one point, one of the team members collapsed. The others stopped to help, but he insisted that they keep going and leave him behind. Two more archeologists, too ill to go on, stayed behind as well, leaving only three archeologists, the professor among them, to continue the descent. They never knew what caused the illnes, but days before this, the three of them already starting to feel it, but they thought that the illness feeling is just because they were overworked. Suspiciously, the three of them were the people who investigated the arachnid fossils and the hands-on researcher regarding the red matter.
+At one point, one of the team members collapsed. The others stopped to help, but he insisted that they keep going and leave him behind. Two more archeologists, too ill to go on, stayed behind as well, leaving only three archeologists, the professor among them, to continue the descent.
+
+They never knew what caused the illnes, but days before this, the three of them already starting to feel it, but they thought that the illness feeling is just because they were overworked. Suspiciously, the three of them were the people who investigated the arachnid fossils and the hands-on researcher regarding the red matter.
 
 As they neared the end of the path, madness slowly took hold of them. The professor sensed it too, though he seemed to retain his conciousness. The two researchers walking beside him however, had lost theirs conciousness. They moved like sleepwalkers, their gazes fixed straight ahead, as if being drawn into the very heart of the mountain. The professor kept his observation to himself and remained silent, telling himself that it might be just a hallucination.
 
@@ -166,9 +167,13 @@ As they enter the final chamber of the deep cavern, they were met with an unfath
 
 The professor instructed the two researchers to measure the hematite concentration in the chamber while he examined the skull. As he jotted down his notes, the pair ceased stopped doing work and approached him. He asked if they needed anything, but neither replied. They simply walked past him, heading straight toward the skull. He tried to stop them, but they pressed onward, as if they had been subjected to brainwashing.
 
-Suddenly, a scream came out from the entrance of the chamber. The professor made one last attempt to reach for the two researchers, but his hand slipped away. He ran to a small cave near the floor of the chamber to hide. From his concealment, he watched as the bodies of the two researchers contorted and stretched, transforming into tall, alien-like creatures. Shortly thereafter, three spider-like beings crawled in through the entrance. presumably the three archaeologists who had been left behind due to illness. All five transformed archaeologists let out cries directed toward the skull, as if in prayer. Then, the three spider-like creatures left the chamber and headed up to the mine on the surface, where they attacked the miners.
+Suddenly, a scream came out from the entrance of the chamber. The professor made one last attempt to reach for the two researchers, but his hand slipped away. He ran to a small cave near the floor of the chamber to hide. From his concealment, he watched as the bodies of the two researchers contorted and stretched, transforming into tall, alien-like creatures. Shortly thereafter, three spider-like beings crawled in through the entrance.
 
-The professor remained in his hiding place, recording everything he had witnessed, too terrified to emerge. Days passed, and his own willpower began to fade, until he, too, had all but lost his sanity, much like the others. His final note is an apology for failing to prevent all of this. It concludes with him ominously saying that he is now setting off to join his creator. He then left his hiding spot. The two tall beings spotted him immediately, yet he made no attempt to flee. Instead, he turned toward the skull and began to pray, just as the others had done—before the two creatures disemboweled him.
+Presumably the three archaeologists who had been left behind due to illness. All five transformed archaeologists let out cries directed toward the skull, as if in prayer. Then, the three spider-like creatures left the chamber and headed up to the mine on the surface, where they attacked the miners.
+
+The professor remained in his hiding place, recording everything he had witnessed, too terrified to emerge. Days passed, and his own willpower began to fade, until he, too, had all but lost his sanity, much like the others. His final note is an apology for failing to prevent all of this.
+
+It concludes with him ominously saying that he is now setting off to join his creator. He then left his hiding spot. The two tall beings spotted him immediately, yet he made no attempt to flee. Instead, he turned toward the skull and began to pray, just as the others had done, before the two creatures disemboweled him.
 
 ## General Storyline
 
@@ -186,11 +191,7 @@ Players are tasked to go inside the mines to gather information.
 
 At the mines, player gather small journal notes
 
-### Phase 1.5 - Hidden Passage
-
-TO-DO
-
-### Phase 2
+### Phase 2 - The Calling
 
 After entering the secret enterance, player will found out that, the archeology team found an entrance to an even deeper cave system and have explored it thoroughly. There are smaller outpost scattered around the deep mines and players have to go to it one by one. In each outpost theres a journal note that explain their findings.
 
@@ -206,16 +207,16 @@ At the end of their journey, they finally reached the bottom of the mines.
 
 ## Journals
 
-### Phase - 0 (Misc Lore)
+### Phase 0 (Misc Lore)
 
 This headblocks hunt is not ordered. And some are not even related to the main story.
 
 #### Log of the Erebus
 
-Author: Francis Peabody
-Title: Log of the Erebus
-Type: Ship's Log
-Location: Ship A (the `Erebus`)
+- Author: Francis Peabody
+- Title: Log of the Erebus
+- Type: Ship's Log
+- Location: Erebus (the `Erebus`)
 
 ```txt
 LOG OF THE EREBUS
@@ -241,10 +242,10 @@ I will resume this log on our return.
 
 #### Wireless Log of the Beardmore
 
-Author: Owen McTeague
-Title: Wireless Log, S.S. Beardmore
-Type: Wireless Log
-Location: Ship B (the `Beardmore`)
+- Author: Owen McTeague
+- Title: Wireless Log, S.S. Beardmore
+- Type: Wireless Log
+- Location: Ship B (the `Beardmore`)
 
 ```txt
 S.S. BEARDMORE
@@ -287,10 +288,10 @@ SENT position. No acknowledgement.
 
 #### Surface Camp Stores
 
-Author: Francis Peabody
-Title: Surface Camp Stores
-Type: Inventory List
-Location: Archeology Outpost
+- Author: Francis Peabody
+- Title: Surface Camp Stores
+- Type: Inventory List
+- Location: Archeology Outpost
 
 ```txt
 SURFACE CAMP: STORES
@@ -325,10 +326,10 @@ Notes:
 
 #### Notes on the Marine Remains
 
-Author: Ellen Carrow
-Title: Notes on the Marine Remains
-Type: Field Notebook
-Location: Dragon Skull (the one in the sea)
+- Author: Ellen Carrow
+- Title: Notes on the Marine Remains
+- Type: Field Notebook
+- Location: Dragon Skull (the one in the sea)
 
 ```txt
 FIELD NOTEBOOK
@@ -353,10 +354,10 @@ The professor wants all marine work stopped and all of us in the mine. I will le
 
 #### Of the Red Hill
 
-Author: Unknown
-Title: Of the Red Hill
-Type: Manuscript Leaf
-Location: Ruined Building (by the summoning circle)
+- Author: Unknown
+- Title: Of the Red Hill
+- Type: Manuscript Leaf
+- Location: Ruined Building (by the summoning circle)
 
 ```txt
 [A loose leaf, much stained. The first lines are lost.]
@@ -381,10 +382,10 @@ Speaking words of wisdom, let it be.
 
 #### Notes on the Carvings at the Upper Skull
 
-Author: Albert Wilmot
-Title: Notes on the Carvings at the Upper Skull
-Type: Scholar's Notes (translation)
-Location: Dragon Skull (the one above the mountain)
+- Author: Albert Wilmot
+- Title: Notes on the Carvings at the Upper Skull
+- Type: Scholar's Notes (translation)
+- Location: Dragon Skull (the one above the mountain)
 
 ```txt
 NOTES ON THE CARVINGS AT THE UPPER SKULL
@@ -415,10 +416,10 @@ This headblocks hunt is ordered.
 
 #### The Warning
 
-Author: Prof. Nathaniel Dwyer
-Title: The Warning
-Type: Letter
-Location: Surface Mine
+- Author: Prof. Nathaniel Dwyer
+- Title: The Warning
+- Type: Letter
+- Location: Surface Mine
 
 ```txt
 Starkweather Institute
@@ -449,10 +450,10 @@ RECEIVED 19 JUNE. REQUEST DECLINED. EXPEDITION PROCEEDS AS PLANNED. PROF. DWYER 
 
 #### Update Log, Lower Drifts
 
-Author: Magnus Thorfinn
-Title: Update Log, Lower Drifts
-Type: Update Log
-Location: First Fossil
+- Author: Magnus Thorfinn
+- Title: Update Log, Lower Drifts
+- Type: Update Log
+- Location: First Fossil
 
 ```txt
 UPDATE LOG
@@ -482,10 +483,10 @@ Foreman: M. Thorfinn
 
 #### Specimen Notes, Second Pit
 
-Author: Walter Gedding
-Title: Specimen Notes, Second Pit
-Type: Specimen Notes
-Location: Second Fossil
+- Author: Walter Gedding
+- Title: Specimen Notes, Second Pit
+- Type: Specimen Notes
+- Location: Second Fossil
 
 ```txt
 SPECIMEN NOTES
@@ -513,10 +514,10 @@ We all go down by way of the miners' breakthrough tomorrow, into the big cave at
 
 #### A Letter Home
 
-Author: Tom Watkin
-Title: A Letter Home
-Type: Letter (never sent)
-Location: The Nest (near the entrance)
+- Author: Tom Watkin
+- Title: A Letter Home
+- Type: Letter (never sent)
+- Location: The Nest (near the entrance)
 
 ```txt
 Dear Mary,
@@ -540,10 +541,10 @@ No one has come up from below in four days.
 
 #### Last Note
 
-Author: Eddie Ropes
-Title: Last Note
-Type: Scrawled Note
-Location: The Nest (deep inside, near the hidden entrance)
+- Author: Eddie Ropes
+- Title: Last Note
+- Type: Scrawled Note
+- Location: The Nest (deep inside, near the hidden entrance)
 
 ```txt
 [Pencil, on the back of a timesheet. The hand gets worse as it goes.]
@@ -577,10 +578,10 @@ This headblocks hunt is ordered.
 
 #### Expedition Journal I, Outpost Alpha
 
-Author: Prof. Nathaniel Dwyer
-Title: Expedition Journal I
-Type: Expedition Journal
-Location: Outpost Alpha
+- Author: Prof. Nathaniel Dwyer
+- Title: Expedition Journal I
+- Type: Expedition Journal
+- Location: Outpost Alpha
 
 ```txt
 EXPEDITION JOURNAL OF N. DWYER
@@ -605,10 +606,10 @@ Forth reports a seam of red ooze on the lower terrace, with white spikes of bone
 
 #### Lab Log, Outpost Bravo
 
-Author: Arthur Lakely
-Title: Lab Log, Outpost Bravo
-Type: Lab Log
-Location: Outpost Beta (Bravo), by the red matter and the spikes
+- Author: Arthur Lakely
+- Title: Lab Log, Outpost Bravo
+- Type: Lab Log
+- Location: Outpost Beta (Bravo), by the red matter and the spikes
 
 ```txt
 LAB LOG, OUTPOST BRAVO
@@ -633,10 +634,10 @@ A. Lakely
 
 #### Night Book
 
-Author: Daniel Forth
-Title: Night Book
-Type: Dream Diary
-Location: Outpost Beta (Bravo), by the vertical shaft
+- Author: Daniel Forth
+- Title: Night Book
+- Type: Dream Diary
+- Location: Outpost Beta (Bravo), by the vertical shaft
 
 ```txt
 NIGHT BOOK
@@ -670,10 +671,10 @@ I do not remember writing the last page. We go down the shaft today to set up Ou
 
 #### Expedition Journal II, Outpost Charlie
 
-Author: Prof. Nathaniel Dwyer
-Title: Expedition Journal II
-Type: Expedition Journal
-Location: Outpost Charlie
+- Author: Prof. Nathaniel Dwyer
+- Title: Expedition Journal II
+- Type: Expedition Journal
+- Location: Outpost Charlie
 
 ```txt
 EXPEDITION JOURNAL OF N. DWYER
@@ -704,10 +705,10 @@ I find I spend a good part of each day at the mouth of the south passage with my
 
 #### Minutes, Outpost Charlie
 
-Author: Daniel Forth
-Title: Minutes, Outpost Charlie
-Type: Meeting Minutes
-Location: Outpost Charlie, by the start of the south passage
+- Author: Daniel Forth
+- Title: Minutes, Outpost Charlie
+- Type: Meeting Minutes
+- Location: Outpost Charlie, by the start of the south passage
 
 ```txt
 MINUTES OF A MEETING OF THE STARKWEATHER PARTY
@@ -755,10 +756,10 @@ alpha bravo charlie alpha bravo charlie alpha bravo charlie alpha bravo
 
 #### Torn Page
 
-Author: Arthur Lakely
-Title: Torn Page
-Type: Torn Lab Log Page
-Location: Path from Outpost Charlie to the Heart of the Plague (upper part, where Lakely collapsed)
+- Author: Arthur Lakely
+- Title: Torn Page
+- Type: Torn Lab Log Page
+- Location: Path from Outpost Charlie to the Heart of the Plague (upper part, where Lakely collapsed)
 
 ```txt
 [A page torn from the lab log, weighted down with a lamp which has burnt out.]
@@ -779,10 +780,10 @@ going down
 
 #### Expedition Journal III, The South Passage
 
-Author: Prof. Nathaniel Dwyer
-Title: Expedition Journal III
-Type: Expedition Journal (loose pages)
-Location: Path from Outpost Charlie to the Heart of the Plague (lower part, where Gedding and Carrow stayed behind)
+- Author: Prof. Nathaniel Dwyer
+- Title: Expedition Journal III
+- Type: Expedition Journal (loose pages)
+- Location: Path from Outpost Charlie to the Heart of the Plague (lower part, where Gedding and Carrow stayed behind)
 
 ```txt
 EXPEDITION JOURNAL OF N. DWYER
@@ -805,10 +806,10 @@ I leave these pages with Gedding for the relief party. Forth, Peabody and I go o
 
 #### Field Notes, The Great Chamber
 
-Author: Prof. Nathaniel Dwyer
-Title: Field Notes, The Great Chamber
-Type: Field Notes (cut off)
-Location: Heart of the Plague, on the chamber floor in front of the skull
+- Author: Prof. Nathaniel Dwyer
+- Title: Field Notes, The Great Chamber
+- Type: Field Notes (cut off)
+- Location: Heart of the Plague, on the chamber floor in front of the skull
 
 ```txt
 FIELD NOTES, N. DWYER
@@ -839,10 +840,10 @@ The great chamber, 14 Oct.
 
 #### Expedition Journal IV, From the Hollow
 
-Author: Prof. Nathaniel Dwyer
-Title: Expedition Journal IV
-Type: Expedition Journal
-Location: Heart of the Plague, inside small cave the prof hides in
+- Author: Prof. Nathaniel Dwyer
+- Title: Expedition Journal IV
+- Type: Expedition Journal
+- Location: Heart of the Plague, inside small cave the prof hides in
 
 ```txt
 EXPEDITION JOURNAL OF N. DWYER
@@ -869,10 +870,10 @@ Let me be clear, as there is no one left to take care of. Whatever they became, 
 
 #### Final Entry
 
-Author: Prof. Nathaniel Dwyer
-Title: Final Entry
-Type: Letter
-Location: Heart of the Plague, below the skull with the professor's remains
+- Author: Prof. Nathaniel Dwyer
+- Title: Final Entry
+- Type: Letter
+- Location: Heart of the Plague, below the skull with the professor's remains
 
 ```txt
 To the adventurer party or any soul that venture deep into the deep cavern, if it comes, and to the Board of the Starkweather Institute.
@@ -904,7 +905,7 @@ Every block below is one NPC. Each paragraph is one chat message, sent in order 
 
 #### Nicolas Roerick
 
-Location: Staff House Floor 2
+- Location: Staff House Floor 2
 
 ```txt
 A score of years I have painted the hill, and now my hand puts in a red vein within the rock. I have not seen it with my own eyes.
@@ -914,7 +915,7 @@ Two places I will not paint. The ruin at the back of the mountain, which has a c
 
 #### Martha Pym
 
-Location: /warp crate stalls
+- Location: /warp crate stalls
 
 ```txt
 In you come, out of the wind. Mr. Peabody put the professor's stores in the tents at the mine mouth, and the wireless man left his log on the Beardmore.
@@ -924,7 +925,7 @@ And the skull up on the summit? There is a man with a key. If he wants you, he w
 
 #### Silas Nansen
 
-Location: /warp crate stalls
+- Location: /warp crate stalls
 
 ```txt
 Mind the fish now. No eyes, not one in the net. A fish has no use for eyes down in the dark.
@@ -934,7 +935,7 @@ Three summers ago the north shallows were bare sand. Now there is a skull out th
 
 #### Murdo
 
-Location: Mine, Waterfall room
+- Location: Mine, Waterfall room
 
 ```txt
 It was me that heard the noise up in the north cave. Mr. Thorfinn took the men down and left me with the lamp. Twelve tags went off the board. None came back.
@@ -946,7 +947,7 @@ The professor's stores are yet in the tents at the mine mouth. Read the bit Mr. 
 
 #### Dr. Helena Moore
 
-Location: Archeology room, `/spawn` mines
+- Location: Archeology room, `/spawn` mines
 
 ```txt
 We got here eighteen days late. The miners are dead, and the professor's party are not with the dead we found. Bring me all the paper in that mine.
@@ -956,7 +957,7 @@ Start with the professor's letter to the Board. If he made a copy, it should be 
 
 #### Albert Wilmot
 
-Location: Archeology room, `/spawn` mines
+- Location: Archeology room, `/spawn` mines
 
 ```txt
 The island lore says the hill grew over a thing which fell from the sky, as a pearl grows round grit. It says the thing is dead. Then it says it is not over.
@@ -966,8 +967,8 @@ If you find marks in sets of five, copy them down for me, dot for dot. Do not tr
 
 #### James Atwell
 
-Location: Archeology room, `/spawn` mines
-Points to: First Fossil, Second Fossil
+- Location: Archeology room, `/spawn` mines
+- Points to: First Fossil, Second Fossil
 
 ```txt
 The red ore grows in the rock like rust on a nail, and it is warm to the hand. I would not keep a piece of it where you sleep.
@@ -977,7 +978,7 @@ The first bones came out of Drift 3 at 88 ft, the next lot lower down in Drift 4
 
 #### Owen McTeague
 
-Location: Archeology room, `/spawn` mines
+- Location: Archeology room, `/spawn` mines
 
 ```txt
 The last we had from the island. 15 Oct, 2350. Thorfinn to Beardmore. Murdo on watch hears noise in the north cave. Taking the men down to meet them.
@@ -987,7 +988,7 @@ Nothing from then on. I keep the set on their wavelength of a night all the same
 
 #### Dr. Ruth Sherwin
 
-Location: Archeology room, `/spawn` mines
+- Location: Archeology room, `/spawn` mines
 
 ```txt
 The miners were found in the big cave at the north end, bound and hung from the roof. I will tell you no more of it.
